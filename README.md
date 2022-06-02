@@ -25,9 +25,8 @@ Chongqing University of Posts and Telecommunications
 
 The repositories include three folders.
 
-1. “dataset” folder provides the datasets.
-2. “software” folder provides a “.exe” progress allowed reader to reproduce the experiment of mixed-frequency data in this paper.
-3. “source code” folder provides the source codes of the TAA-NN algorithm.
+1. “software” folder provides a “.exe” progress allowed reader to reproduce the experiment of mixed-frequency data in this paper.
+2. “source code” folder provides the source codes of the TAA-NN algorithm.
 
 # Experimental environment:
 Pycharm 2020.2.1Edition
