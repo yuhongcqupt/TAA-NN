@@ -7,7 +7,7 @@ Paper title:
 <br>
 by  Peng Wu and Hong Yu et al.
 <br>
-The manuscript was submitted to JMLC 2022.
+
 <br>
 <br>
 Copyright (C) 2022
@@ -47,4 +47,4 @@ numpy 1.19.3Edition
 
 # reference
 
-Wu, P., Yu, H., Hu, F. *et al.* A temporal-attribute attention neural network for mixed frequency data forecasting. *Int. J. Mach. Learn. & Cyber.* (2022). https://doi.org/10.1007/s13042-022-01541-7
+Peng Wu, Hong Yu, Feng Hu, Yongfang Xie. A temporal-attribute attention neural network for mixed frequency data forecasting.  *Int. J. Mach. Learn. & Cyber.* **13**, 2519–2531 (2022). https://doi.org/10.1007/s13042-022-01541-7
